@@ -1,6 +1,6 @@
 function login() {
   return (
-    <div>login</div>
+    <div>로그인</div>
   )
 }
 export default login
